@@ -1,9 +1,35 @@
-# Notas:
+## Aplicación Web - Chat
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Este es un chat web desarrollado con Node, Exprees, Socket.io y Boostrap.
 
-Recuerden que deben de reconstruir los módulos de node con el siguiente comando:
+### Requerimientos
+
+Descargue e instale NodeJs.
++ [Node.js](https://nodejs.org/es/)
+
+### Instalación
+
+Clona este repositorio a tu máquina local usando:
+
+	git clone https://github.com/CarlosRH7/Socket-chat-node.git
+
+### Arrancando
+
+Verificar la instalación de Node.js y Npm:
 
 ```
+node -v
+npm -v
+```
+
+Instalación de paquetes:
+
+```
+cd Socket-chat-node
 npm install
+```
+
+Iniciamos el servidor:
+```
+node server/server
 ```
