@@ -1,6 +1,6 @@
 ## Aplicación Web - Chat
 
-Este es un chat web desarrollado con Node, Exprees, Socket.io y Boostrap.
+Este es un chat web desarrollado con Node, Express, Socket.io y Bootstrap.
 
 ### Requerimientos
 
